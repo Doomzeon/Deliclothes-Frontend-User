@@ -1,0 +1,402 @@
+{
+    "welcome_page_1_title": "Ordina vestiti",
+    "@welcome_page_1_title": {
+        "description": "Ordina vestiti"
+    },
+    "welcome_page_1_description": "Da piu' \n di 50+ negozzi!",
+    "@welcome_page_1_description": {
+        "description": "Da piu' di 50+ negozzi!"
+    },
+    "welcome_page_2_title": "Prova vestiti",
+    "@welcome_page_2_title": {
+        "description": "Prova vestiti"
+    },
+    "welcome_page_2_description": "Se vestito non sta bene \n puoi richiedere il reso \n tramitte noi!",
+    "@welcome_page_2_description": {
+        "description": "Se vestito non sta bene puoi richiedere il reso tramitte noi!"
+    },
+    "welcome_page_text_button": "Avanti",
+    "@welcome_page_text_button": {
+        "description": "Avanti"
+    },
+    "sign_in_up_main_page_title": "Crea nuovo account \n oppure esegui login",
+    "@sign_in_up_main_page_title": {
+        "description": "Crea nuovo account oppure esegui login"
+    },
+    "sign_in_up_input_mail": "Inserisci la tua mail",
+    "@sign_in_up_input_mail": {
+        "description": "Inserisci la tua mail"
+    },
+    "sign_in_up_input_password": "Inserisci la tua password",
+    "@sign_in_up_input_password": {
+        "description": "Inserisci la tua password"
+    },
+    "sign_in_button_text_loggin": "Login",
+    "@sign_in_button_text_loggin": {
+        "description": "Login"
+    },
+    "sign_in_up_button_text_loggin_after": "Login dopo",
+    "@sign_in_up_button_text_loggin_after": {
+        "description": "Login dopo"
+    },
+    "sign_up_input_confimr_password": "Conferma password",
+    "@sign_up_input_confimr_password": {
+        "description": "Conferma password"
+    },
+    "sign_up_button_text_next": "Avanti",
+    "@sign_up_button_text_next": {
+        "description": "Avanti"
+    },
+    "sign_up_input_name": "Inserisci il tuo nome",
+    "@sign_up_input_name": {
+        "description": "Inserisci il tuo nome"
+    },
+    "sign_up_input_surname": "Inserisci il tuo cognome",
+    "@sign_up_input_surname": {
+        "description": "Inserisci il tuo cognome"
+    },
+    "sign_up_input_phone": "Inserisci il numero di telefono",
+    "@sign_up_input_phone": {
+        "description": "Inserisci il numero di telefono"
+    },
+    "sign_up_input_residence": "Inserisci la via",
+    "@sign_up_input_residence": {
+        "description": "Inserisci la via"
+    },
+    "sign_up_input_zip_code": "CAP",
+    "@sign_up_input_zip_code": {
+        "description": "CAP"
+    },
+    "input_card_number": "Inserisci il numero della carta",
+    "@input_card_number": {
+        "description": "Inserisci il numero della carta"
+    },
+    "input_card_date": "Date",
+    "@input_card_date": {
+        "description": "Inserisci data fine"
+    },
+    "input_card_cvc": "CVC",
+    "@input_card_cvc": {
+        "description": "CVC"
+    },
+    "input_card_owner": "Inserisci titolare della carta",
+    "@input_card_owner": {
+        "description": "Inserisci titolare della carta"
+    },
+    "sign_up_2_page_title": "Completa tuo profilo",
+    "@sign_up_2_page_title": {
+        "description": "Completa tuo profilo"
+    },
+    "sign_up_button_text_register": "Registra",
+    "@sign_up_button_text_register": {
+        "description": "Registra"
+    },
+    "home_page_sales_title_section": "Migliori offerte per te",
+    "@home_page_sales_title_section": {
+        "description": "Migliori offerte per te"
+    },
+    "home_page_sales_title_2_section": "Vestiti in sconto",
+    "@home_page_sales_title_2_section": {
+        "description": "Vestiti in sconto"
+    },
+    "clothes_liked_page_title": "Ti piacce",
+    "@clothes_liked_page_title": {
+        "description": "Ti piacce"
+    },
+    "clothes_list_1_page_title": "Sceglie il tipo di vestito",
+    "@clothes_list_1_page_title": {
+        "description": "Sceglie il tipo di vestito"
+    },
+    "clothes_list_1_page_gender_man": "Uomo",
+    "@clothes_list_1_page_gender_man": {
+        "description": "Uomo"
+    },
+    "clothes_list_1_page_gender_woman": "Donna",
+    "@clothes_list_1_page_gender_woman": {
+        "description": "Donna"
+    },
+    "clothes_list_1_page_gender_child": "Bambino",
+    "@clothes_list_1_page_gender_child": {
+        "description": "Bambino"
+    },
+    "clothes_list_woman_clothe_type_jackets": "Jackets",
+    "@clothes_list_woman_clothe_type_jackets": {
+        "dscription": "Jackets"
+    },
+    "clothes_list_woman_clothe_type_tshirt": "T-Shirt",
+    "@clothes_list_woman_clothe_type_tshirt": {
+        "description": "T-Shirt"
+    },
+    "clothes_list_woman_clothe_type_blazers": "Blazers",
+    "@clothes_list_woman_clothe_type_blazers": {
+        "description": "Blazers"
+    },
+    "clothes_list_woman_clothe_type_waiskots": "Waiskots",
+    "@clothes_list_woman_clothe_type_waiskots": {
+        "description": "Waiskots"
+    },
+    "clothes_list_woman_clothe_type_dresses": "Dresses",
+    "@clothes_list_woman_clothe_type_dresses": {
+        "description": "Dresses"
+    },
+    "clothes_list_woman_clothe_type_sweaters": "Sweaters",
+    "@clothes_list_woman_clothe_type_sweaters": {
+        "description": "Sweaters"
+    },
+    "clothes_list_woman_clothe_type_jeans": "Jeans",
+    "@clothes_list_woman_clothe_type_jeans": {
+        "description": "Jeans"
+    },
+    "clothes_list_woman_clothe_type_trousers": "Trousers",
+    "@clothes_list_woman_clothe_type_trousers": {
+        "description": "Trousers"
+    },
+    "clothes_list_woman_clothe_type_shorts": "Shorts",
+    "@clothes_list_woman_clothe_type_shorts": {
+        "description": "Shorts"
+    },
+    "clothes_list_woman_clothe_type_skirt": "Skirt",
+    "@clothes_list_woman_clothe_type_skirt": {
+        "description": "Skirt"
+    },
+    "clothes_list_woman_clothe_type_shirtstop": "Shirts-top",
+    "@clothes_list_woman_clothe_type_shirtstop": {
+        "description": "Shirts-top"
+    },
+    "clothes_list_woman_clothe_type_loungewear": "Lounge wear",
+    "@clothes_list_woman_clothe_type_loungewear": {
+        "description": "Lounge wear"
+    },
+    "clothes_list_woman_clothe_type_suits": "Suits",
+    "@clothes_list_woman_clothe_type_suits": {
+        "description": "Suits"
+    },
+    "clothes_list_woman_clothe_type_seamless": "Seamless",
+    "@clothes_list_woman_clothe_type_seamless": {
+        "description": "Seamless"
+    },
+    "clothes_list_woman_clothe_type_bags": "Bags",
+    "@clothes_list_woman_clothe_type_bags": {
+        "description": "Bags"
+    },
+    "clothes_list_woman_clothe_type_accessories": "Accessories",
+    "@clothes_list_woman_clothe_type_accessories": {
+        "description": "Accessories"
+    },
+    "clothes_list_woman_clothe_type_specialprice": "Special price",
+    "@clothes_list_woman_clothe_type_specialprice": {
+        "description": "Special price"
+    },
+    "clothes_list_woman_clothe_type_lingerie": "Lingerie",
+    "@clothes_list_woman_clothe_type_lingerie": {
+        "description": "Lingerie"
+    },
+    "clothes_list_man_clothe_type_dresses": "Dresses",
+    "@clothes_list_man_clothe_type_dresses": {
+        "description": "Dresses"
+    },
+    "clothes_list_man_clothe_type_blazers": "Blazers",
+    "@clothes_list_man_clothe_type_blazers": {
+        "description": "Blazers"
+    },
+    "clothes_list_man_clothe_type_bags": "Bags",
+    "@clothes_list_man_clothe_type_bags": {
+        "description": "Bags"
+    },
+    "clothes_list_man_clothe_type_shirtstop": "Shirts-top",
+    "@clothes_list_man_clothe_type_shirtstop": {
+        "description": "Shirts-top"
+    },
+    "clothes_list_man_clothe_type_loungewear": "Lounge wear",
+    "@clothes_list_man_clothe_type_loungewear": {
+        "description": "Lounge wear"
+    },
+    "clothes_list_man_clothe_type_waiskots": "Waiskots",
+    "@clothes_list_man_clothe_type_waiskots": {
+        "description": "Waiskots"
+    },
+    "clothes_list_man_clothe_type_jackets": "Jackets",
+    "@clothes_list_man_clothe_type_jackets": {
+        "description": "Jackets"
+    },
+    "clothes_list_man_clothe_type_jeans": "Jeans",
+    "@clothes_list_man_clothe_type_jeans": {
+        "description": "Jeans"
+    },
+    "clothes_list_man_clothe_type_sweaters": "Sweaters",
+    "@clothes_list_man_clothe_type_sweaters": {
+        "description": "Sweaters"
+    },
+    "clothes_list_man_clothe_type_tshirt": "T-Shirt",
+    "@clothes_list_man_clothe_type_tshirt": {
+        "description": "T-Shirt"
+    },
+    "clothes_list_man_clothe_type_overshirts": "Overshirts",
+    "@clothes_list_man_clothe_type_overshirts": {
+        "description": "Overshirts"
+    },
+    "clothes_list_man_clothe_type_trousers": "Trousers",
+    "@clothes_list_man_clothe_type_trousers": {
+        "description": "Trousers"
+    },
+    "clothes_list_man_clothe_type_polo": "Polo",
+    "@clothes_list_man_clothe_type_polo": {
+        "dscription": "Polo"
+    },
+    "clothes_list_man_clothe_type_shoes": "Shoes",
+    "@clothes_list_man_clothe_type_shoes": {
+        "description": "Shoes"
+    },
+    "clothes_list_man_clothe_type_specialprice": "Special price",
+    "@clothes_list_man_clothe_type_specialprice": {
+        "description": "Special price"
+    },
+    "clothes_list_man_clothe_type_sportswear": "Sports wear",
+    "@clothes_list_man_clothe_type_sportswear": {
+        "description": "Sports wear"
+    },
+    "settings_page_my_account": "Mio account",
+    "@settings_page_my_account": {
+        "description": "Mio account"
+    },
+    "settings_page_settings": "Impostazioni",
+    "@settings_page_settings": {
+        "description": "Impostazioni"
+    },
+    "settings_page_allorders": "Tutti ordini",
+    "@settings_page_allorders": {
+        "description": "Tutti ordini"
+    },
+    "settings_page_make_return": "Restituisci vestito/i",
+    "@settings_page_make_return": {
+        "description": "Restituisci vestito/i"
+    },
+    "settings_page_support": "Supporto",
+    "@settings_page_support": {
+        "description": "Supporto"
+    },
+    "settings_page_logout": "Logout",
+    "@settings_page_logout": {
+        "description": "Logout"
+    },
+    "settings_page_my_account_title": "Informazioni sul profilo",
+    "@settings_page_my_account_title": {
+        "description": "Informazioni sul profilo"
+    },
+    "settings_page_my_account_button_save": "Salva",
+    "@settings_page_my_account_button_save": {
+        "description": "Salva"
+    },
+    "settings_page_my_account_card_section_title": "Carta di credito",
+    "@settings_page_my_account_card_section_title": {
+        "description": "Carta di credito"
+    },
+    "settings_page_my_account_add_card_modal_title": "Aggiunti carta di credito",
+    "@settings_page_my_account_add_card_modal_title": {
+        "description": "Aggiunti carta di credito"
+    },
+    "settings_page_my_account_close_card_modal_button": "Chiudi",
+    "@settings_page_my_account_close_card_modal_button": {
+        "description": "Chiudi"
+    },
+    "settings_page_my_account_confirm_card_modal_button": "Conferma",
+    "@settings_page_my_account_confirm_card_modal_button": {
+        "description": "Conferma"
+    },
+    "settings_page_allorders_title": "Tuoi ordini",
+    "@settings_page_allorders_title": {
+        "description": "Tuoi ordini"
+    },
+    "settings_page_allorders_order_done_title": "Informazioni sull'ordine",
+    "@settings_page_allorders_order_done_title": {
+        "description": "Informazioni sull'ordine"
+    },
+    "settings_page_allorders_order_check_text": "Scontrino",
+    "@settings_page_allorders_order_check_text": {
+        "description": "Scontrino"
+    },
+    "settings_page_allorders_order_in_progress_time_text": "Ordine arrivera alle",
+    "@settings_page_allorders_order_in_progress_time_text": {
+        "description": "Ordine arrivera alle"
+    },
+    "settings_page_allorders_order_in_progress_call_courier_text": "Chiama corriere",
+    "@settings_page_allorders_order_in_progress_call_courier_text": {
+        "description": "Chiama corriere"
+    },
+    "settings_page_allorders_order_in_progress_back_button": "In dietro",
+    "@settings_page_allorders_order_in_progress_back_button": {
+        "description": "In dietro"
+    },
+    "settings_page_make_return_title": "Seleziona vestiti pr il ritorno",
+    "@settings_page_make_return_title": {
+        "description": "Seleziona vestiti sui qualli vuoi effetuare il reso"
+    },
+    "settings_page_make_return_button_next": "Avanti",
+    "@settings_page_make_return_button_next": {
+        "description": "Avanti"
+    },
+    "bag_page_title": "La tua borsa",
+    "@bag_page_title": {
+        "description": "La tua borsa"
+    },
+    "bag_page_button_next_text": "Proccedi con pagamento",
+    "@bag_page_button_next_text": {
+        "description": "Proccedi con pagamento"
+    },
+    "checkout_page_title": "Completa pagamento",
+    "@checkout_page_title": {
+        "description": "Completa pagamento"
+    },
+    "checkout_page_street_text": "Indirizzo",
+    "@checkout_page_street_text": {
+        "description": "Indirizzo"
+    },
+    "checkout_page_street_home_text": "Casa",
+    "@checkout_page_street_home_text": {
+        "description": "Casa"
+    },
+    "checkout_page_street_another_street_text": "Un'altra posizione",
+    "@checkout_page_street_another_street_text": {
+        "description": "Un'altra posizione"
+    },
+    "checkout_page_street_another_street_name_text": "Inserisci la via",
+    "@checkout_page_street_another_street_name_text": {
+        "description": "Inserisci la via"
+    },
+    "checkout_page_card_text": "Metodo di pagamento",
+    "@checkout_page_card_text": {
+        "description": "Metodo di pagamento"
+    },
+    "checkout_page_hour_delivery": "Sceglie l'ora",
+    "@checkout_page_hour_delivery": {
+        "description": "Sceglie l'ora"
+    },
+    "checkout_page_day_delivery": "Sceglie la data",
+    "@checkout_page_day_delivery": {
+        "description": "Sceglie la data"
+    },
+    "checkout_page_bill_title": "Scontrino",
+    "@checkout_page_bill_title": {
+        "description": "Scontrino"
+    },
+    "checkout_page_cost_delivery_text": "Costo consegna",
+    "@checkout_page_cost_delivery_text": {
+        "description": "Costo consegna"
+    },
+    "checkout_page_cost_clothes_text": "Costo vestiti",
+    "@checkout_page_cost_clothes_text": {
+        "description": "Costo vestiti"
+    },
+    "checkout_page_discount_text": "Sconto",
+    "@checkout_page_discount_text": {
+        "description": "Sconto"
+    },
+    "checkout_page_bill_tot_text": "Totale",
+    "@checkout_page_bill_tot_text": {
+        "description": "Totale"
+    },
+    "checkout_page_confirm_button_text": "Conferma pagamento",
+    "@checkout_page_confirm_button_text": {
+        "description": "Conferma pagamento"
+    }
+}
